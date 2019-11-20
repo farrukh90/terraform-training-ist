@@ -1,0 +1,11 @@
+environment 					= "qa" 
+s3_bucket					= "terraform-training-farrukh" 
+s3_folder_project				= "vet"
+s3_folder_region				= "eu-west-1"
+s3_folder_type					= "sharedtools"
+s3_tfstate_file					= "infrastructure.tfstate"
+ami 						= "ami-040ba9174949f6de4"
+instance_type 					= "t2.micro"
+Name						= "Joomla"
+count						= 3
+key_name					= "terraform_cli"
