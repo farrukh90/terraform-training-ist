@@ -15,3 +15,4 @@ if [[ "$status_code" -eq 200 ]]
     else
         echo "ERROR: Not able to access artifactory"
 fi
+ backend.tf

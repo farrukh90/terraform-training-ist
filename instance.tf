@@ -36,3 +36,4 @@ resource "aws_instance" "webs" {
   }
 }
 
+ get-setenv.sh backend.tf

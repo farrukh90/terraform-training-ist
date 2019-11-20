@@ -4,3 +4,5 @@ output "instance_dns" {
 output "instance_IP" {
   value = "${aws_instance.web.*.public_ip}"
 }
+
+ instance.tf get-setenv.sh backend.tf
