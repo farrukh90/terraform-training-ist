@@ -1,5 +1,0 @@
-environment 					= "stage" 
-bucket						= "terraform-training-farrukh" 
-ami 						= "ami-040ba9174949f6de4"
-instance_type 					= "t2.micro"
-Name						= "Joomla"

@@ -1,5 +1,5 @@
-environment 					= "dev" 
-s3_bucket						= "terraform-training-farrukh" 
+environment 					= "stage"
+s3_bucket					= "terraform-training-farrukh" 
 s3_folder_project				= "vet"
 s3_folder_region				= "eu-west-1"
 s3_folder_type					= "sharedtools"

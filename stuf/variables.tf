@@ -6,4 +6,3 @@ variable "count" {
   default = 1 
 }
 variable "key_name" {}
-
